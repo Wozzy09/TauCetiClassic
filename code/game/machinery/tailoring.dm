@@ -396,6 +396,3 @@
 			return
 
 		return
-
-// Cloth maker
-/obj/machinery/cloth_creator
